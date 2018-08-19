@@ -106,6 +106,9 @@ venv.bak/
 # pycharm env
 .idea/
 
+# data ignore
+tmp/
+
 # tensorflow_base_program
 #tensorflow_base_program/tmp/
 #tensorflow_base_program/data/
